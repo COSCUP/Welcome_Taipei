@@ -23,11 +23,16 @@ adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
 sdjfnakjsdnfljkasdnfjmas
 
 ## Culture
-> aksgdjhblaksjdfnlakjsdfnlkjasdnfkjlsdnfjk
-> 
-kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
-adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
-sdjfnakjsdnfljkasdnfjmas
+> Taiwan Government https://www.taiwan.gov.tw/content_3.php
+> You can find the history and culture information here.
+
+Taiwan culture is a fusion of traditional Chinese, Japanese, and also Western influences.
+Taiwan is the first country in Asia to legalize same-sex marriage.
+Taipei, the capital of Taiwan, is a great place to explore both traditional and modern lifestyles.
+
+Tipping culture in Taiwan is not common.
+Basically, eating in restaurants would have additional 10% service charge added to your bill.
+Most of time, there is no need to tip, even for the room cleaners of hotels.
 
 ## 🌈 Weather
 > Central Weather Administration: https://www.cwa.gov.tw/eng/
@@ -46,11 +51,16 @@ sdjfnakjsdnfljkasdnfjmas
 - Taxis/Uber: Affordable. Taxis are metered, and Uber works well.
 - High-Speed Rail (HSR): If you want to travel outside Taipei (e.g., Taichung, Tainan, Kaohsiung), the HSR is the fastest option.
 
-### Buy MRT Ticket
-kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
-adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
-sdjfnakjsdnfljkasdnfjmas
+### From Taiwan Taoyuan International Airport (TPE) to Taipei
+> Land Transportation in Taiwan Tourism Administration https://eng.taiwan.net.tw/m1.aspx?sNo=0029023
+>
+If you land Taoyuan International Airport, you need to take Taoyuan Metro to go to Taipei Main Station.
+In Taipei, we recommend you to purchase an Easy Card and top up the Easy Card.
+Buying an Easy Card, you need to use cash, so please prepare some cash in advance!
+
 ## 🧋 Taste of Taiwan
+> Food section in Taiwan Tourism Administration https://eng.taiwan.net.tw/m1.aspx?sNo=0002026
+
 kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,fdsfhjkldsajfnlkasdjhflkasdjhflksdjflksajdfl;kajsd;flkjasdl;kfjas;dlkfjaskdfsadfasdf
 adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdfadslkghlauksdjfnlkajsndflkjnasdkljfnsakldjfnaskjdnfksdjanf
 sdjfnakjsdnfljkasdnfjmasdsalkfnbljbglkjasnglkjasnflkdsnflkasdfjlaksdjf
@@ -82,6 +92,7 @@ sdjfnakjsdnfljkasdnfjmasdsalkfnbljbglkjasnglkjasnflkdsnflkasdfjlaksdjf
 <details>
     <summary><b>Halal</b></summary>
     清真飲食
+> https://eng.taiwan.net.tw/m1.aspx?sNo=0020323
 </details>
 
 <details>
