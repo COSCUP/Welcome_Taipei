@@ -107,11 +107,36 @@ sdjfnakjsdnfljkasdnfjmasdsalkfnbljbglkjasnglkjasnflkdsnflkasdfjlaksdjf
 
 
 ## Must-Visit Attractions
-> akdfnlkjashglkjasndflkjasndfsdfasdf
+<table>
+  <tr>
+    <td>
+      <h3>The National Palace Museum</h3>
+      <img src="National_Palace_Museum.jpg" alt="National Palace Museum">
+    </td>
+    <td>
+      The National Palace Museum houses one of the largest collections of Chinese art and historical artifacts, offering visitors a glimpse into the rich cultural heritage of China. It is one of the most visited museums in the world.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Taipei 101</h3>
+      <img src="Taipei_101.jpg" alt="Taipei 101">
+    </td>
+    <td>
+      Taipei 101 is a famous skyscraper known for its innovative design and incredible height, once the tallest building in the world. It offers panoramic views of the city and is a prime spot for shopping and dining.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Xiangshan (Elephant Mountain)</h3>
+      <img src="Xiangshan.jpg" alt="Xiangshan">
+    </td>
+    <td>
+      Xiangshan, also known as Elephant Mountain, offers one of the best hiking trails in Taipei, with stunning views of the city, including Taipei 101. It's a popular spot for both locals and tourists looking for a scenic escape.
+    </td>
+  </tr>
+</table>
 
-kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
-adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
-sdjfnakjsdnfljkasdnfjmas
 ## Payment Methods
 > akdfnlkjashglkjasndflkjasndfsdfasdf
 
@@ -133,6 +158,9 @@ sdjfnakjsdnfljkasdnfjmas
 kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
 adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
 sdjfnakjsdnfljkasdnfjmas
+
+
+
 
 
 
