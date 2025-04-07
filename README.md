@@ -147,10 +147,13 @@ sdjfnakjsdnfljkasdnfjmasdsalkfnbljbglkjasnglkjasnflkdsnflkasdfjlaksdjf
 </table>
 
 ## Payment Methods
-> akdfnlkjashglkjasndflkjasndfsdfasdf
 
-kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
-adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
+In Taiwan, cash is still the most commonly used payment method, especially at traditional markets, street vendors, local eateries, and some taxis. However, credit cards (Visa and Mastercard) are widely accepted at department stores, chain retailers, hotels, and larger restaurants.
+
+Mobile payments are also becoming increasingly popular. Common apps include LINE Pay, JKOPay (街口支付), Apple Pay, and QR code payments supported by major local banks.
+
+Note: Some of these services may only work with local bank accounts, so it’s a good idea to carry some cash just in case.
+
 sdjfnakjsdnfljkasdnfjmas
 ## Visa
 Many nationalities qualify for visa-free entry to Taiwan for up to 90 days, while others may need a Visa on Arrival or a Tourist Visa. To find out the specific visa requirements based on your nationality, visit: https://www.boca.gov.tw/np-137-2.html
