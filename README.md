@@ -122,11 +122,16 @@ kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
 adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
 sdjfnakjsdnfljkasdnfjmas
 ## Payment Methods
-> akdfnlkjashglkjasndflkjasndfsdfasdf
+>1. Credit Cards
+Visa, MasterCard, JCB, American Express, Diners Club: Widely accepted at many businesses, both locally and internationally.
+>2. Debit Cards
+Apple Pay: Widely used for contactless payments with iPhones and Apple Watches.
+Google Pay: Accepted at various locations for contactless payments, available for Android users.
+>3. Cash (NTD - New Taiwan Dollar)
+Cash is still a common method of payment, especially for small transactions or in more traditional areas.
 
-kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
-adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
-sdjfnakjsdnfljkasdnfjmas
+ATMs are widely available for cash withdrawals, and cash payments are accepted at almost every business.
+
 ## Visa
 Many nationalities qualify for visa-free entry to Taiwan for up to 90 days, while others may need a Visa on Arrival or a Tourist Visa. To find out the specific visa requirements based on your nationality, visit: https://www.boca.gov.tw/np-137-2.html
 
