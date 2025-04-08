@@ -74,6 +74,15 @@ sdjfnakjsdnfljkasdnfjmasdsalkfnbljbglkjasnglkjasnflkdsnflkasdfjlaksdjf
 
 <details>
     <summary><b>Food near NTUST</b></summary>
+    Food near National Taiwan University of Science and Technology (NTUST) (Mostly located in the Gongguan area, near NTUST)
+    <ul>
+        <li>NTUST First Student Cafeteria - 美德耐 (Ping Ke Buffet): [<a href="https://maps.app.goo.gl/2avW6UjkkDbgHUwPA" target="_blank">Google Map</a>] - Affordable buffet</li>
+        <li>Lan Jia Gua Bao (Steamed Sandwich): [<a href="https://maps.app.goo.gl/VveBWuYJYdWWGypY7" target="_blank">Google Map</a>] - Famous gua bao shop</li>
+        <li>Kuang Yi Shi Hao: [<a href="https://g.co/kgs/6hpLeiq" target="_blank">Google Map</a>] - Brunch, light meals </li>
+        <li>Gouyi Xia Izakaya (Gongguan Branch): [<a href="https://g.co/kgs/NiuryCK" target="_blank">Google Map</a>] - Japanese izakaya</li>
+        <li>Shishlik Pita x Kebab Middle Eastern Restaurant: [<a href="https://g.co/kgs/46LSRTG" target="_blank">Google Map</a>] - Middle Eastern cuisine</li>
+        <li>picnic Cafe: [<a href="https://g.co/kgs/aihSgZw" target="_blank">Google Map</a>] - Cafe, light meals </li>
+    </ul>
 </details>
 
 <details>
