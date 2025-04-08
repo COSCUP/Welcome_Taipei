@@ -126,15 +126,11 @@ sdjfnakjsdnfljkasdnfjmas
 1. **Credit Cards**
    - **Visa, MasterCard, JCB, American Express, Diners Club**: These are widely accepted across Taiwan, both at local and international businesses. They can be used for various transactions, from shopping to dining.
 
-2. **Debit Cards**
-   - Local bank-issued **debit cards** are commonly used for direct payments, offering convenience for both online and offline purchases.
-
-3. **Mobile Payments**
+2. **Mobile Payments**
    - **Apple Pay**: A popular contactless payment method available for iPhone and Apple Watch users, enabling quick and secure transactions.
    - **Google Pay**: This Android-compatible service is widely accepted for contactless payments at various stores, offering an easy way to pay directly from your phone.
-   - **Line Pay**: A mobile wallet linked to the LINE messaging app, allowing users to make payments at shops, transfer money, and even pay bills.
 
-4. **Cash (NTD - New Taiwan Dollar)**
+3. **Cash (NTD - New Taiwan Dollar)**
    - Cash remains a prevalent payment method, especially for small transactions or in traditional settings. You can withdraw cash from ATMs, which are conveniently located throughout the island.
    - Many businesses still accept cash payments, making it a flexible option for consumers.
 
