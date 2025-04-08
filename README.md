@@ -67,9 +67,69 @@ sdjfnakjsdnfljkasdnfjmasdsalkfnbljbglkjasnglkjasnflkdsnflkasdfjlaksdjf
 
 <details>
     <summary><b>Local Food</b></summary>
-    kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f  
-    adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf  
-    sdjfnakjsdnfljkasdnfjmas
+    # Must-Try Street Foods in Taipei
+
+Taipei is home to a vibrant street food culture, especially in its night markets. Here are the top street foods you should try when you're in the city, along with some recommended places to enjoy them:
+
+## 1. **Beef Noodle Soup (牛肉麵)**
+   - A signature dish of Taipei, consisting of tender beef and chewy noodles in a savory broth.
+   - **Recommended Places**:
+     - **(蔥燉牛肉麵)**[<a href="https://maps.app.goo.gl/9H76f98crrergqtR9" target="_blank">Google Map</a>]
+     - **(林東芳牛肉麵)**[<a href="https://maps.app.goo.gl/kZXWjDs4jpMqJQYJ9" target="_blank">Google Map</a>]
+
+## 2. **Oyster Omelette (蚵仔煎)**
+   - A popular street food made with fresh oysters, egg, and vegetables, topped with a sweet and savory sauce.
+   - **Recommended Places**:
+     - **(夜市肉羹蚵仔煎)**[<a href="https://maps.app.goo.gl/Ac8iKdcmaaGrSYrH8" target="_blank">Google Map</a>]
+
+## 3. **Bubble Tea (珍珠奶茶)**
+   - Taiwan's world-famous drink made with tea, milk, and chewy tapioca pearls.
+   - **Recommended Places**:
+
+
+## 4. **Taiwanese Popcorn Chicken (鹽酥雞)**
+   - Crispy deep-fried chicken pieces seasoned with salt, pepper, and basil.
+   - **Recommended Places**:
+
+
+## 5. **Stinky Tofu (臭豆腐)**
+   - Deep-fried tofu with a strong odor but an incredibly rich flavor, usually served with pickled cabbage.
+   - **Recommended Places**:
+
+## 6. **Gua Bao (刈包)**
+   - A Taiwanese-style hamburger with braised pork belly, pickled mustard greens, and ground peanuts wrapped in a steamed bun.
+   - **Recommended Places**:
+
+
+## 7. **Braised Pork Rice (滷肉飯)**
+   - A comforting dish consisting of rice topped with slow-braised pork in a savory soy-based sauce.
+   - **Recommended Places**:
+
+
+## 8. **Taiwanese Sausage with Sticky Rice (米腸)**
+   - Grilled sausage wrapped in sticky rice and served with garlic, cucumber, and soy sauce.
+   - **Recommended Places**:
+
+
+## 9. **Tian Bu La (甜不辣)**
+   - Taiwanese-style tempura made from fish cakes, squid, and vegetables, served with a sweet sauce.
+   - **Recommended Places**:
+
+
+## 10. **Taiwanese Fish Balls (魚丸)**
+   - Chewy fish balls served in a light broth, often accompanied by vegetables.
+   - **Recommended Places**:
+
+
+## 11. **Hot Star Large Fried Chicken (豪大大雞排)**
+   - Known for their massive fried chicken pieces, served crispy and juicy.
+   - **Recommended Places**:
+
+
+---
+
+These street foods represent the diverse and delicious food scene of Taipei, and the
+
 </details>
 
 <details>
