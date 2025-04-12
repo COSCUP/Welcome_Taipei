@@ -136,13 +136,35 @@ These street foods represent the diverse and delicious food scene of Taipei, and
 </details>
 
 <details>
-    <summary><b>Night Market</b></summary>
-    <ul>
-        <li><b>Shilin Night Market (士林夜市)</b>: Best for classic street food.</li>
-        <li><b>Raohe Night Market (饒河夜市)</b>: Famous for black pepper buns.</li>
-        <li><b>Ningxia Night Market (寧夏夜市)</b>: Great for traditional Taiwanese snacks.</li>
-    </ul>
+  <summary><b>Night Market</b></summary>
+
+  <h2>1. Shilin Night Market</h2>
+  <ul>
+    <li><b>Fried Chicken Cutlet</b>: <a href="https://maps.app.goo.gl/gJ9JDDepeuLvWBF87">📍 Hot-Star</a></li>
+    <li><b>Oyster Omelette</b>: <a href="https://maps.app.goo.gl/hNF1WGwqkZ2s38ss6">📍 Zhong Cheng Hao</a></li>
+    <li><b>Scallion Pancake</b>: <a href="https://maps.app.goo.gl/aCbCMhZnaTNNQroE7">📍 郭家蔥油餅</a></li>
+    <li><b>Cold Noodles</b>: <a href="https://maps.app.goo.gl/TAvpRxMq2baPKUoQ7">📍 Good Friend Cold Noodles</a></li>
+    <li><b></b>Papaya Milk: <a href="https://maps.app.goo.gl/ZLWSB71kBCTc7j8w5">📍 簡記木瓜牛奶</a></li>
+  </ul>
+  <h2>2. Raohe Street Night Market</h2>
+  <ul>
+    <li><b>Pepper Buns</b>: <a href="https://maps.app.goo.gl/kXgM3zKm8epiqZ1Z7">📍 Fuzhou Pepper Buns (pork pepper buns)</a></li>
+    <li><b>Tangyuan</b>: <a href="https://maps.app.goo.gl/e29QpeXaKNE6DzH46">📍 Yu Pin Yuan Iced and Hot Tangyuan - Raohe Branch</a></li>
+    <li><b>Spareribs Noodles</b>: <a href="https://maps.app.goo.gl/tSKwufZyCzbvT4dt6">📍 楊排骨酥麵</a></li>
+    <li><b></b>Sweet Potato Ball: <a href="https://maps.app.goo.gl/fSvmh6fGqGXqNarLA">📍 快樂QQ球（地瓜球）饒河店</a></li>
+  </ul>
+  <h2>3. Ningxia Night Market</h2>
+  <ul>
+    <li><b>Pork Liver Soup</b>: <a href="https://maps.app.goo.gl/McJpQLnKwasaoipT7">📍 Rong's Pork Liver</a></li>
+    <li><b>Soybean Pudding</b>: <a href="https://maps.app.goo.gl/zRiyvXNEFVrcvBdH9">📍 Beans Village</a></li>
+    <li><b>Stinky Tofu</b>: <a href="https://maps.app.goo.gl/ua4v3vuyusGJrEwy5">📍 林記麻辣臭豆腐</a></li>
+    <li><b>Pot Stickers and Dumplings</b>: <a href="https://maps.app.goo.gl/BPeoRxtfiJHPYug69">📍 Fuyang Pot Stickers and Dumplings</a></li>
+  </ul>
 </details>
+
+
+
+
 
 <details>
     <summary><b>Halal</b></summary>
