@@ -19,54 +19,51 @@
 
 ## :bulb: About
 
-This document aims for helping international travelers to come to Taiwan!
-Patch welcome!
+This guide is here to help international travelers coming to Taiwan — patches welcome!
 
 ## Culture
-> Taiwan Government https://www.taiwan.gov.tw/content_3.php
-> You can find the history and culture information here.
+The Taiwanese Government has provided some history and culture information [here](https://www.taiwan.gov.tw/content_3.php).
 
-Taiwan culture is a fusion of traditional Chinese, Japanese, and also Western influences.
+Taiwanese culture is a fusion of traditional Chinese, Japanese, and also Western influences.
 Taiwan is the first country in Asia to legalize same-sex marriage.
 Taipei, the capital of Taiwan, is a great place to explore both traditional and modern lifestyles.
 
 Tipping culture in Taiwan is not common.
-Basically, eating in restaurants would have additional 10% service charge added to your bill.
-Most of time, there is no need to tip, even for the room cleaners of hotels.
+Basically, restaurants already include a 10% service charge in the bill. 
+Most of the time, there's no need to tip—even for hotel room cleaners.
 
 ## 🌈 Weather
-> Central Weather Administration: https://www.cwa.gov.tw/eng/
 
 COSCUP usually takes place in the summer, around July or August.
 It’s typically hot, humid, and sometimes rainy in Taiwan during that time—and yep, the occasional typhoon might show up too.
 Temperatures usually range from 25 to 33°C.
-For more details, you can check out the Central Weather Administration’s website!
+For more details, you can check out the Central Weather Administration’s [website](https://www.cwa.gov.tw/eng/)!
 
 ## 🚆 Transportation
 
 - Getting around Taipei is super convenient with its efficient public transport system.
-- MRT (Mass Rapid Transit): The best way to travel! Clean, fast, and cheap. Most attractions are near MRT stations.
+- MRT (Mass Rapid Transit): The best way to travel is the Taipei Metro! Clean, fast, and cheap. Most attractions are near MRT stations.
 - Buses: Good for short trips, but can be confusing for non-locals. Use Google Maps for navigation.
-- YouBike (Bike Sharing): Great for short rides around the city. You need an EasyCard to rent one.
+- YouBike (Bike Sharing): Great for short rides around the city. You need an Easy Card to rent one.
 - Taxis/Uber: Affordable. Taxis are metered, and Uber works well.
 - High-Speed Rail (HSR): If you want to travel outside Taipei (e.g., Taichung, Tainan, Kaohsiung), the HSR is the fastest option.
 
 ### From Taiwan Taoyuan International Airport (TPE) to Taipei
-> Land Transportation in Taiwan Tourism Administration https://eng.taiwan.net.tw/m1.aspx?sNo=0029023
->
-If you land Taoyuan International Airport, you need to take Taoyuan Metro to go to Taipei Main Station.
+[Land Transportation guide from the Taiwan Tourism Administration](https://eng.taiwan.net.tw/m1.aspx?sNo=0029023)
+
+If you land at Taoyuan International Airport, you need to take the Taoyuan Metro to go to Taipei Main Station.
 In Taipei, we recommend you to purchase an Easy Card and top up the Easy Card.
-Buying an Easy Card, you need to use cash, so please prepare some cash in advance!
+To buy an Easy Card, you need to use cash, so please prepare some cash in advance!
 
 ## 🧋 Taste of Taiwan
-> Food section in Taiwan Tourism Administration https://eng.taiwan.net.tw/m1.aspx?sNo=0002026
+[Food guide from the Taiwan Tourism Administration](https://eng.taiwan.net.tw/m1.aspx?sNo=0002026)
 
 Taipei is an international city. 
 
 <details>
     <summary><b>Local Food</b></summary>
 
-Taipei is home to a vibrant street food culture, especially in its night markets. Here are the top street foods you should try when you're in the city, along with some recommended places to enjoy them:
+Taipei is home to a vibrant street food culture, especially in its night markets. Here are the top street foods you should try when you're in the city along with some recommended places to enjoy them:
 
 #### 1. **Beef Noodle Soup (牛肉麵)**
    - A signature dish of Taipei, consisting of tender beef and chewy noodles in a savory broth.
@@ -88,7 +85,7 @@ Taipei is home to a vibrant street food culture, especially in its night markets
    - **Recommended Places**:
 
 #### 5. **Stinky Tofu (臭豆腐)**
-   - Deep-fried tofu with a strong odor but an incredibly rich flavor, usually served with pickled cabbage.
+   - Deep-fried fermented tofu with a strong odor and incredibly rich flavor, usually served with pickled cabbage.
    - **Recommended Places**:
 
 #### 6. **Gua Bao (刈包)**
@@ -118,7 +115,7 @@ Taipei is home to a vibrant street food culture, especially in its night markets
 
 ---
 
-These street foods represent the diverse and delicious food scene of Taipei, and the
+These street foods represent the diverse and delicious food scene of Taipei.
 
 </details>
 
@@ -131,7 +128,7 @@ These street foods represent the diverse and delicious food scene of Taipei, and
         <li>Kuang Yi Shi Hao: [<a href="https://g.co/kgs/6hpLeiq" target="_blank">Google Map</a>] - Brunch, light meals </li>
         <li>Gouyi Xia Izakaya (Gongguan Branch): [<a href="https://g.co/kgs/NiuryCK" target="_blank">Google Map</a>] - Japanese izakaya</li>
         <li>Shishlik Pita x Kebab Middle Eastern Restaurant: [<a href="https://g.co/kgs/46LSRTG" target="_blank">Google Map</a>] - Middle Eastern cuisine</li>
-        <li>picnic Cafe: [<a href="https://g.co/kgs/aihSgZw" target="_blank">Google Map</a>] - Cafe, light meals </li>
+        <li>picnic cafe: [<a href="https://g.co/kgs/aihSgZw" target="_blank">Google Map</a>] - Cafe, light meals </li>
     </ul>
 </details>
 
