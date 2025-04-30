@@ -159,21 +159,13 @@ These street foods represent the diverse and delicious food scene of Taipei.
   </ul>
 </details>
 
-
-
-
-
 <details>
-    <summary><b>Halal</b></summary>
-> https://eng.taiwan.net.tw/m1.aspx?sNo=0020323
-</details>
+  <summary><b>Other Dietary Options</b></summary>
 
-<details>
-    <summary><b>Indian</b></summary>
-</details>
+  - **Halal**: [Halal in Taiwan (官方觀光網站介紹)](https://eng.taiwan.net.tw/m1.aspx?sNo=0020323)  
+  - **Indian**: [Indian restaurants in Taipei (Yelp 搜尋結果)](https://www.yelp.com/search?find_desc=Indian&find_loc=Taipei%2C+%E5%8F%B0%E5%8C%97%E5%B8%82)  
+  - **Vegan**: [Vegan & Vegetarian Restaurants in Taipei (Taiwan Obsessed)](https://www.taiwanobsessed.com/vegetarian-vegan-restaurants-taipei/)  
 
-<details>
-    <summary><b>Vegan</b></summary>
 </details>
 
 
