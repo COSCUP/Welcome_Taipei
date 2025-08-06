@@ -97,7 +97,7 @@ Taipei is home to a vibrant street food culture. Here are some street foods you 
 <details>
   <summary><b>Food near NTUST</b></summary>
   <ul>
-    <li><b>Student Cafeteria</b>: <a href="https://maps.app.goo.gl/2avW6UjkkDbgHUwPA">📍 美德耐 </a></li>
+    <li><b>Student Cafeteria</b>: <a href="https://maps.app.goo.gl/2avW6UjkkDbgHUwPA">📍 美德耐 </a> / <a href="https://github.com/COSCUP/NTUST-Foodlist">餐廳資訊 Restaurant List</a></li>
     <li><b>Gua Bao</b> (Steamed Pork Bun): <a href="https://maps.app.goo.gl/VveBWuYJYdWWGypY7">📍 藍家割包</a></li>
     <li><b>Brunch, Light Meals</b> : <a href="https://g.co/kgs/6hpLeiq">📍 光一肆號</a></li>
     <li><b>Izakaya</b>: <a href="https://g.co/kgs/NiuryCK">📍 狗一下居酒食堂（公館店）</a></li>
